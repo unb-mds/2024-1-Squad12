@@ -2,25 +2,25 @@
 
 ### 1. Identificação do Projeto
 
-**Nome do projeto:** Saúde Goiás
+**Nome do projeto:** SECRETARIA DF
 
 ### 2. Descrição do Projeto
 
-**Objetivo do projeto:** Facilitar o acesso à informação sobre saúde pública no estado de Goiás.
+**Objetivo do projeto:** Facilitar o acesso à informação sobre os gastos das secretarias do DF.
 
-**Visão geral do projeto:** Uma aplicação web que apresenta dados de saúde da região de Goiás de forma gráfica e intuitiva.
+**Visão geral do projeto:** Uma aplicação web que apresenta dados relacionados aos gastos das secretarias na região do DF de forma gráfica e intuitiva.
 
 **Funcionalidades principais:**
 
-* Visualização de dados de saúde em gráficos e tabelas.
-* Filtros para refinar a pesquisa por município, indicador de saúde, período, etc.
+* Visualização de dados de monetários em gráficos e tabelas.
+* Filtros para refinar a pesquisa por município, secretaria, período, etc.
 * Interface amigável e acessível para diferentes públicos.
 
 **Público-alvo:**
 
-* Estudiosos e pesquisadores da área da saúde.
+* Estudiosos e pesquisadores da área de economia.
 * Gestores públicos e tomadores de decisão.
-* População em geral interessada em saúde pública.
+* População em geral interessada em gastos públicos.
 
 ### 3. Requisitos Funcionais
 
@@ -32,16 +32,7 @@
 
 * A tabela deve ser organizada por colunas, com títulos claros e concisos.
 * A tabela deve ser responsiva, adaptando-se automaticamente a diferentes tamanhos de tela.
-* Os usuários devem poder filtrar os dados por município, indicador de saúde, período, etc.
-
-
-**Exemplo de tabela:**
-
-| Município | Indicador de saúde | Período | Valor | Fonte dos dados |
-|---|---|---|---|---|
-| Goiânia | Esperança de vida ao nascer | 2020 | 77,5 anos | IBGE |
-| Aparecida de Goiânia | Mortalidade infantil | 2020 | 12,5 por mil nascidos vivos | SES-GO |
-| Anápolis | Taxa de internação por doenças respiratórias | 2020 | 100 por 100 mil habitantes | DATASUS |
+* Os usuários devem poder filtrar os dados por município, secretaria, período, etc.
 
 **Observações:**
 
